@@ -82,6 +82,9 @@ The dataset used in this project can be downloaded from the following link:
 - Customers with similar spending patterns are categorized together, allowing businesses to target specific groups effectively.  
 - The Elbow method and Silhouette score help identify the optimal number of clusters.  
 
+📌 Course: ISB46703 Principle of Artificial Intelligence
+📌 Lecturer: Sir Ahmad Zhafri Hariz bin Roslan
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
