@@ -21,26 +21,6 @@ The goal of this project is to apply K-Means clustering to a customer dataset an
 The dataset used in this project can be downloaded from the following link:  
 [**Customer Dataset**](https://t.ly/DW1KA)  
 
-## Setup Instructions
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/alys-source14/kmeans_customer_clustering.git
-   cd kmeans_customer_clustering
-   ```
-
-2. **Set Up a Virtual Environment (Optional)**  
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
-
-3. **Install Dependencies**  
-   Install the necessary Python libraries using:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Implementation Steps
 
 1. **Load the Dataset**  
