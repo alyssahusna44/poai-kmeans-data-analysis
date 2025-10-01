@@ -6,7 +6,6 @@ This project applies K-Means clustering on a customer dataset to segment custome
 
 - [Overview](#overview)  
 - [Dataset](#dataset)  
-- [Setup Instructions](#setup-instructions)  
 - [Implementation Steps](#implementation-steps)  
 - [Usage](#usage)  
 - [Results](#results)  
