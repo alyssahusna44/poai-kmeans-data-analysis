@@ -59,10 +59,7 @@ The dataset used in this project can be downloaded from the following link:
 
 - The dataset is grouped into distinct clusters based on age and spending behavior.  
 - Customers with similar spending patterns are categorized together, allowing businesses to target specific groups effectively.  
-- The Elbow method and Silhouette score help identify the optimal number of clusters.  
-
-Course: ISB46703 Principle of Artificial Intelligence
-Lecturer: Sir Ahmad Zhafri Hariz bin Roslan
+- The Elbow method and Silhouette score help identify the optimal number of clusters.
 
 ## License
 
